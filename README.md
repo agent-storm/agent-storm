@@ -1,6 +1,6 @@
 # Hello there, you've reached agent-storm's github, you can find all my finished and ongoing projects here, thanks for stopping by...!!
 # 💫 About Me:
-Currently working on automation with python (moviepy  ,selenium) 🎞️<br>Previously worked on GUI development with Python kivy. 🖥️<br>Just a under grad student. 🧑🏻‍🎓<br>Creating is fun 😃 but debugging is not. 😐<br>
+Currently working on automation with python (moviepy  ,selenium) 🎞️<br>Previously worked on GUI development with Python kivy. 🖥️<br>Just a under grad student. 🧑🏻‍🎓<br>Creating is fun 😃 but debugging is not. 😐<br>I love automating stuff and making things easier to do so I will be exploring automation with python<br>
 
 
 ## 🌐 Socials:
